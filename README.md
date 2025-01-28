@@ -1,7 +1,6 @@
 # Shooter
 # Shooter Game
 
-![Shooter Game](https://your-image-url.com/banner.png)
 
 ## 🚀 Introduction
 Welcome to **Shooter Game**, an exciting 2D side-scrolling shooter game built with Python and Pygame. Navigate through challenging levels, defeat enemies, and collect power-ups to enhance your gameplay experience.
